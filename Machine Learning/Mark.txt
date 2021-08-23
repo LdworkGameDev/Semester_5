@@ -1,0 +1,33 @@
+Chào các bạn,
+
+Do trang UTEx vẫn đang hoàn thiện, nên thầy gửi các bạn thông tin học online tại đây.
+
+HÌNH THỨC HỌC: online chủ động. 
+	+ Thầy sẽ cung cấp đầy đủ học liệu: videos bài giảng, slides, code, sách... 
+	+ Sinh viên sẽ chủ động sắp xếp việc học bằng cách lên xem videos bài giảng, code... TRƯỚC buổi học. Điều này giúp đảm bảo chất lượng videos tốt hơn học qua meet.
+	+ Sinh viên tùy ý tham dự buổi meet online vào 1 trong 2 (hoặc cả 2) khung giờ sau: 8AM thứ hai, 1:30PM thứ tư hàng tuần. Buổi meet online này chỉ thảo luận, trả lời câu hỏi của sinh viên nếu có, KHÔNG giảng lại bài giảng. 
+	+ Link meet: meet.google.com/qkz-ytaf-kbd
+	
+HÌNH THỨC TRAO ĐỔI: mọi thắc mắc, câu hỏi về nội dung học, các bạn có thể trao đổi với thầy qua các kênh:
+	+ Hỏi trong buổi meet online. 
+	+ Post câu hỏi lên trang quang-tran-ute.mn.co Trang này dùng như facebook. Trên trang này đã có sẵn nhiều câu hỏi được trả lời và khi đặt câu hỏi tại đây sẽ có thầy và nhiều bạn khác có thể trả lời cho các bạn nhanh hơn.
+	+ Gửi email: quangtn@hcmute.edu.vn
+
+TOÀN BỘ HỌC LIỆU ĐƯỢC UPLOAD TẠI: tiny.cc/QTUTE-MACHINELEARNING
+	+ Thư mục "1. Lectures_Exercises": chứa bài giảng và bài tập hàng tuần.
+	+ Thư mục "2. Group lists": chứa danh sách đăng ký nhóm để báo cáo cuối kỳ. Sinh viên lưu ý vào đây đăng ký nhóm trễ nhất là tuần học thứ 3. 
+	+ Thư mục "3. Ebooks": chứa các sách tham khảo. Tài liệu chính để:
+	Học Python: Kong 2021 Python Programming and Numerical Methods - A Guide for Engineers and Scientists.pdf
+	Học Machine learning: Géron 2019 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.pdf (sách viết rất tốt cho người đi làm về Machine learning)
+	+ Thư mục "4. Info": chứa các thông tin cần biết như link học online, hướng dẫn bài tập giữa kỳ, quy định báo cáo cuối kỳ...
+	
+HÌNH THỨC ĐÁNH GIÁ:
+	+ Giữa kỳ 50%: điểm trung bình bài tập các tuần. Xem kỹ hướng dẫn trong: Exercise guidelines.docx (thư mục "4. Info")
+	+ Cuối kỳ 50%: báo cáo nhóm. Xem kỹ hướng dẫn trong: Final presentation guidelines.docx (thư mục "4. Info")
+
+Mong rằng khóa học sẽ hữu ích cho các bạn trong nghề nghiệp sau này. 
+
+Chúc các bạn sức khỏe và học vui!
+
+Giảng viên 
+Trần Nhật Quang
